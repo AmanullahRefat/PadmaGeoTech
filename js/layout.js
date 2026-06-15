@@ -5,7 +5,7 @@ const headerHTML = `
 <header class="backdrop-blur-sm sticky top-0 z-50">
     <div class="container mx-auto px-6 py-3 flex justify-between items-center">
         <a href="index.html" class="flex items-center space-x-3">
-             <img src="https://raw.githubusercontent.com/AmanullahRefat/PadmaGeospatial/3777122a3f7d96876d53a005ab42caeceed8f4f1/images/PGeo%20Solutions.png" alt="Padma Geospatial Logo" class="h-12 w-auto">
+             <img src="https://github.com/AmanullahRefat/PadmaGeoTech/blob/1cde58486ae72a8a8e7670af62cc31814065b89f/images/favicon.png" alt="Padma GeosTech Logo" class="h-12 w-auto">
              <span class="text-xl font-bold text-primary">Padma GeoTech Ltd.</span>
         </a>
         <div class="flex items-center space-x-8">
