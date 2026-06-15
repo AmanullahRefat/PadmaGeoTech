@@ -30,7 +30,7 @@ const projectsData = [
         location: 'Coastal Bangladesh', 
         image: 'https://placehold.co/600x400/10B981/FFFFFF?text=Cyclone+Shelter+Map', // Replace with your real map image
         details: `
-            <p class="mb-4"><strong>Project Overview:</strong> Padma Geospatial Solutions Ltd conducted a comprehensive survey for the UGC-funded project <em>"Cyclone Shelter Accessibility Satisfaction Index."</em> This study evaluates the accessibility, usability, and overall satisfaction of cyclone shelters, aiming to enhance disaster preparedness and resilience in vulnerable coastal regions.</p>
+            <p class="mb-4"><strong>Project Overview:</strong> Padma GeoTech Ltd conducted a comprehensive survey for the UGC-funded project <em>"Cyclone Shelter Accessibility Satisfaction Index."</em> This study evaluates the accessibility, usability, and overall satisfaction of cyclone shelters, aiming to enhance disaster preparedness and resilience in vulnerable coastal regions.</p>
             
             <p class="mb-4">Our findings contribute to data-driven decision-making for improved shelter management and emergency response planning.</p>
 
@@ -86,7 +86,7 @@ const projectsData = [
         location: 'Greater Bengal (1200 - 1538 CE)', 
         image: 'images/mid-businessCentre.jpg', 
         details: `
-            <p class="mb-4"><strong>Project Overview:</strong> Padma Geospatial Solutions undertook an ambitious and scholarly initiative to map the industrial and commercial hubs of Medieval Greater Bengal, spanning the period between 1200 and 1538 CE.</p>
+            <p class="mb-4"><strong>Project Overview:</strong> Padma GeoTech undertook an ambitious and scholarly initiative to map the industrial and commercial hubs of Medieval Greater Bengal, spanning the period between 1200 and 1538 CE.</p>
             
             <p class="mb-4">This project incorporates historical, numismatic, and archaeological data to develop a comprehensive spatial representation of the Bengal Sultanate era. We utilized museum catalogues, rare manuscripts, inscriptions, and coinage records to verify locations.</p>
 
@@ -358,7 +358,7 @@ const blogPosts = [
             </ul>
 
             <h3 class="text-xl font-bold text-primary mt-8 mb-4">The Future of Decision-Making is Here</h3>
-            <p class="mb-4">Interactive Web GIS Dashboards are more than just tools—they are catalysts for change. By transforming the way organizations visualize and analyze spatial data, they empower decision-makers to act with confidence and precision. At <strong>Padma Geospatial Solutions Ltd.</strong>, we are committed to helping you unlock the full potential of your data.</p>
+            <p class="mb-4">Interactive Web GIS Dashboards are more than just tools—they are catalysts for change. By transforming the way organizations visualize and analyze spatial data, they empower decision-makers to act with confidence and precision. At <strong>Padma GeoTech Ltd.</strong>, we are committed to helping you unlock the full potential of your data.</p>
         `
     },
     {
@@ -409,7 +409,7 @@ const blogPosts = [
             </div>
 
             <h3 class="text-xl font-bold text-primary mt-8 mb-4">Conclusion</h3>
-            <p class="mb-4">The evolution from paper maps to cloud-based GIS has been remarkable. At <strong>Padma Geospatial Solutions Ltd.</strong>, we are proud to be part of this journey, helping organizations harness these tools to make smarter, data-driven decisions. Whether you’re exploring 3D mapping or AI-powered insights, we have the expertise to guide you.</p>
+            <p class="mb-4">The evolution from paper maps to cloud-based GIS has been remarkable. At <strong>Padma GeoTech Ltd.</strong>, we are proud to be part of this journey, helping organizations harness these tools to make smarter, data-driven decisions. Whether you’re exploring 3D mapping or AI-powered insights, we have the expertise to guide you.</p>
         `
     },
     {
