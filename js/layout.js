@@ -6,7 +6,7 @@ const headerHTML = `
     <div class="container mx-auto px-6 py-3 flex justify-between items-center">
         <a href="index.html" class="flex items-center space-x-3">
              <img src="https://raw.githubusercontent.com/AmanullahRefat/PadmaGeospatial/3777122a3f7d96876d53a005ab42caeceed8f4f1/images/PGeo%20Solutions.png" alt="Padma Geospatial Logo" class="h-12 w-auto">
-             <span class="text-xl font-bold text-primary">Padma GeoSpatial Solutions Ltd.</span>
+             <span class="text-xl font-bold text-primary">Padma GeoTech Ltd.</span>
         </a>
         <div class="flex items-center space-x-8">
             <nav class="hidden md:flex items-center space-x-8 font-medium">
@@ -48,7 +48,7 @@ const footerHTML = `
     <div class="container mx-auto px-6 py-10">
          <div class="grid grid-cols-1 md:grid-cols-2 lg:grid-cols-4 gap-8 mb-6">
             <div>
-                <h3 class="text-lg font-semibold mb-4">Padma GeoSpatial Solutions Ltd.</h3>
+                <h3 class="text-lg font-semibold mb-4">Padma GeoTech Ltd.</h3>
                 <p class="text-secondary">We believe accurate data is the foundation of a better world. We take the complexity out of geospatial science to give you the clarity you need to plan, build, and protect.</p>
             </div>
             <div>
@@ -69,7 +69,7 @@ const footerHTML = `
             </div>
         </div>
         <div class="border-t border-custom pt-4 mt-6 flex flex-col sm:flex-row justify-between items-center">
-            <p class="text-secondary text-sm">© 2026 Padma GeoSpatial Solutions Ltd. All Rights Reserved.</p>
+            <p class="text-secondary text-sm">© 2026 Padma GeoTech Ltd. All Rights Reserved.</p>
             <div class="flex space-x-4 mt-4 sm:mt-0">
                 <a href="https://www.facebook.com/profile.php?id=61579305396441" target="_blank" class="text-secondary hover:text-primary"><i class="fab fa-facebook-f"></i></a>
                 <a href="#" class="text-secondary hover:text-primary"><i class="fab fa-twitter"></i></a>
