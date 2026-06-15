@@ -4,10 +4,10 @@
 const headerHTML = `
 <header class="backdrop-blur-sm sticky top-0 z-50">
     <div class="container mx-auto px-6 py-3 flex justify-between items-center">
-        <a href="index.html" class="flex items-center space-x-3">
-            <link rel="icon" type="image/png" href="images/favicon.png" alt="Padma GeoTech Logo" class="h-12 w-auto">
-            <span class="text-xl font-bold text-primary">Padma GeoTech Ltd.</span>
-        </a>
+       <a href="index.html" class="flex items-center space-x-3">
+    <img src="images/favicon.png" alt="Padma GeoTech Logo" class="h-12 w-auto">
+    <span class="text-xl font-bold text-primary">Padma GeoTech Ltd.</span>
+</a>
         <div class="flex items-center space-x-8">
             <nav class="hidden md:flex items-center space-x-8 font-medium">
                 <a href="index.html" class="nav-link">Home</a>
